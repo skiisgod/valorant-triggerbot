@@ -1,1 +1,1 @@
-# valorant-triggerbot
+# Valorant Triggerbot
